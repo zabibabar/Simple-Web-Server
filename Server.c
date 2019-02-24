@@ -1,4 +1,3 @@
-//Group members: Zabeeh Ullah Babar and Joshua
 //----- Include files ---------------------------------------------------------
 #include <stdio.h>
 #include <string.h>
